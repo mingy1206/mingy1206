@@ -1,11 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=90E59A&text=MINGI's%20GITHUB&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=90E59A&text=MinGi's%20GITHUB&fontAlignY=50)
 
 
 <div align="center">
-  <span>
     <h2>Hello, World! & Everyone</h2>
-  </span>
-  <span>
     <h2>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Running.png" alt="Man Running" width="25" height="25" />
         About Me
@@ -13,21 +10,28 @@
         <br/>
         <a href="https://velog.io/@mingy1206/posts"><img src="https://img.shields.io/badge/My Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@dongkwan00/posts"/></a>
         <a href="https://www.notion.so/Example-f8273909dc3841f495b80604c1f198ec?pvs=4"><img src="https://img.shields.io/badge/My Notion-000000?style=plastic&logo=Notion&logoColor=white"></a>
-        </h2>  
-    </span>
-    <h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" />
-        Backend Developer 이민기입니다.
-    </h3>
-
-**Name** : 이민기 (Lee MinGi)<br/>
-**Birth** : 2000.12.14<br/>
-**University** : 가천대학교<br/>
-**Dream** : 강연하는 개발자<br/>
-
+        </h2>
 </div>
-x`
 
+<div>
+<h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" />
+    Backend Developer 이민기입니다.
+</h2>
+
+<h>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="25" height="25" />
+이민기 (Lee MinGi)<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Birthday%20Cake.png" alt="Birthday Cake" width="25" height="25" />
+2000.12.14<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="School" width="25" height="25" />
+가천대학교<br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Goal%20Net.png" alt="Goal Net" width="25" height="25" />
+강연하는 개발자 (목표)<br/>
+</h>
+</div>
 
 
 
