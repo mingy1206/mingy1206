@@ -2,15 +2,15 @@
 
 
 <div align="center">
-    <h2>Hello, World! & Everyone</h2>
-    <h2>
+    <h1>
+        Hello, World! && Everyone <br/><br/>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Running.png" alt="Man Running" width="25" height="25" />
         About Me
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Running.png" alt="Man Running" width="25" height="25" />
         <br/>
         <a href="https://velog.io/@mingy1206/posts"><img src="https://img.shields.io/badge/My Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@dongkwan00/posts"/></a>
         <a href="https://www.notion.so/Example-f8273909dc3841f495b80604c1f198ec?pvs=4"><img src="https://img.shields.io/badge/My Notion-000000?style=plastic&logo=Notion&logoColor=white"></a>
-        </h2>
+    </h1>
 </div>
 
 <div>
@@ -19,7 +19,7 @@
     Backend Developer 이민기입니다.
 </h2>
 
-<h>
+<h5>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="Man Raising Hand" width="25" height="25" />
 이민기 (Lee MinGi)<br/>
 
@@ -30,7 +30,7 @@
 가천대학교<br/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Goal%20Net.png" alt="Goal Net" width="25" height="25" />
 강연하는 개발자 (목표)<br/>
-</h>
+</h5>
 </div>
 
 
