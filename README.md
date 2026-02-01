@@ -44,26 +44,18 @@ Stacks
 </h2>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white">
 <br/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=plastic&logo=JUnit5&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white">
 <br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=plastic&logo=Firebase&logoColor=white">
   <img src="https://img.shields.io/badge/YOLOv5-09B3AF?style=plastic&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/YCSB-4B1E78?style=plastic&logo=&logoColor=white">
 <br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=plastic&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white">
 <br/>
@@ -71,7 +63,6 @@ Stacks
   <img src="https://img.shields.io/badge/Azure-2496ED?style=plastic&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=plastic&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/Kakao%20Cloud-FFCD00?style=plastic&logo=kakao&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=plastic&logo=mongodb&logoColor=white">
 </div>  
 
 ***
