@@ -91,11 +91,4 @@ Stacks
 </div>
 <br><br><br>
 
-<div align="center">
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=mingy1206&show_icons=true&theme=radical" style="display: inline-block;">
-  </span>
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingy1206&layout=compact" style="display: inline-block;">
-  </span>
-</div>
+
